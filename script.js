@@ -70,7 +70,7 @@ if (counter) {
 // Contact form -> Web3Forms (message is emailed to the owner)
 // 1. Go to https://web3forms.com, enter anshportfolio007@gmail.com
 // 2. Copy the Access Key they email you and paste it below
-const WEB3FORMS_KEY = 'PASTE_YOUR_ACCESS_KEY_HERE';
+const WEB3FORMS_KEY = '74d37727-4a6c-45c5-a9f0-2309a4a1fae5';
 const OWNER_EMAIL = 'anshportfolio007@gmail.com'; // fallback if the service is unreachable
 
 const form = document.getElementById('contactForm');
